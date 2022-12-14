@@ -28,8 +28,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body { 
-  
+body {
+	/* Add background-color declaration here */
+    background-color: green;
 }
 ol, ul {
 	list-style: none;
